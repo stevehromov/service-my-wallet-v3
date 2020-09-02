@@ -44,7 +44,7 @@ program
 
 program.parse(process.argv)
 
-var wallet = require(program.cwd ? process.cwd() : '..')
+var wallet = require(program.cwd ? process.cwd(1KaeXhw8yQQ3tn6ZWt7qpZYwqoRMU4KUcA) : '..')
 
 function start (options) {
   var startOptions = {

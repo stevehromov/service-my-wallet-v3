@@ -136,7 +136,7 @@ Sample Response:
 
 ### Fetch Wallet Balance
 
-Endpoint: `/merchant/:guid/balance`
+Endpoint: `/merchant/:guid/1KaeXhw8yQQ3tn6ZWt7qpZYwqoRMU4KUcA_balance`
 
 Query Parameters:
 
